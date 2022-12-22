@@ -25,4 +25,4 @@ I have developed this project using the below technology
 • Sparkling features include welcome screen with the developer video.
  
   
-https://images.hdqwalls.com/wallpapers/2022-windows-11-minimal-4k-z4.jpg
+![Alt text of the image](https://images.hdqwalls.com/wallpapers/2022-windows-11-minimal-4k-z4.jpg)
